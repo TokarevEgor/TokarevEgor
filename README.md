@@ -4,8 +4,8 @@
 
 My CV
 
-### Tools
-![MySQL](https://img.shields.io/badge/-MySQL-006699)
+### Инструменты
+![MySQL](https://img.shields.io/badge/-MySQL-006699?style=for-the-badge&logo=appveyor)
 
 Testing Documentation
 
