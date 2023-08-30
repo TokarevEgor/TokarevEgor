@@ -1,4 +1,4 @@
-![Header](https://github.com/TokarevEgor/TokarevEgor/blob/main/assets/image_for_git_1.png)
+![Header](https://github.com/TokarevEgor/TokarevEgor/blob/main/assets/image_git_1.png)
 
 ## Здравствуйте, меня зовут Токарев Егор, я инженер по тестированию
 
