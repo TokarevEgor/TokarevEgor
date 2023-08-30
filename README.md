@@ -5,7 +5,7 @@
 My CV
 
 ### Инструменты
-![MySQL](https://img.shields.io/badge/-MySQL-006699?style=for-the-badge&logo=MySQL)
+![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=006699)
 
 Testing Documentation
 
