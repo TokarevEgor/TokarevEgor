@@ -4,8 +4,8 @@
 
 My CV
 
-Tools
-### ![MySQL](https://img.shields.io/badge/MySQL-006699)
+### Tools
+![MySQL](https://img.shields.io/badge/-MySQL-006699)
 
 Testing Documentation
 
