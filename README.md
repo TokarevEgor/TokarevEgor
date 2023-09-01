@@ -19,6 +19,7 @@
 - [Тест-кейсы](https://docs.google.com/spreadsheets/d/1DEMwjcbIiKgcNuw2PxU1pTItdqdCGVMj/edit?usp=sharing&ouid=108622754934953646069&rtpof=true&sd=true)
 - [Баг-репорты](https://docs.google.com/spreadsheets/d/1tUcU3Pg0Pbpcac7lG4zlS3XnTyH57UdZ/edit?usp=sharing&ouid=108622754934953646069&rtpof=true&sd=true)
 - [SQL запросы](https://docs.google.com/spreadsheets/d/1h70CcAQ1riC4WLn0ckgq82_5zXxeeSfe/edit?usp=sharing&ouid=108622754934953646069&rtpof=true&sd=true)
+- [Коллекции Postman](https://docs.google.com/spreadsheets/d/1VC6rl8ToVHTMxIOcKJfZqSmpCCoXCVC-/edit?usp=sharing&ouid=108622754934953646069&rtpof=true&sd=true)
 
 ### Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=27A0D9)](https://t.me/Tokarev_Egor)
