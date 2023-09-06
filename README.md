@@ -3,7 +3,7 @@
 ## Здравствуйте, меня зовут Токарев Егор, я инженер по тестированию
 
 ### Мое резюме
-[Ссылка на резюме](https://drive.google.com/file/d/17sKHpYEnpB00IDPSbf4DqV8NfAC5bEtH/view?usp=sharing)
+[Ссылка на резюме](https://drive.google.com/file/d/1ASHRO3c6i83-HfAQ6kkuK2_J-yRK4nlg/view?usp=sharing)
 
 ### Инструменты
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL&logoColor=006699)
